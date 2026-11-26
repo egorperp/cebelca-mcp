@@ -4,7 +4,7 @@
 
 An [MCP](https://modelcontextprotocol.io) server for **Čebelca BIZ**, the Slovenian invoicing service. It lets AI assistants (Claude, ChatGPT, Copilot, Cursor, n8n AI agents...) look up customers, prepare invoices, record payments and download PDFs, with a person approving every write.
 
-**Live playground:** https://yegor-ai.workers.dev/cebelca/ (demo data)
+**Live playground:** https://yegor-ai.yegorperekrostov.workers.dev/cebelca/ (demo data)
 
 ## What the assistant can do
 
